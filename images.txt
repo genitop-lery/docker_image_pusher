@@ -13,3 +13,5 @@ probezy/cpolar
 kodcloud/kodbox
 # 爬虫 standalone
 selenium/standalone-chrome
+selenium/node-chrome
+
