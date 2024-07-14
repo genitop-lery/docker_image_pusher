@@ -14,4 +14,6 @@ kodcloud/kodbox
 # 爬虫 standalone
 selenium/standalone-chrome
 selenium/node-chrome
+selenium/hub
+
 
