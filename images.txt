@@ -11,4 +11,5 @@ python:3.10.13-bookworm
 probezy/cpolar
 # 可道云 手机文件备份
 kodcloud/kodbox
-
+# 爬虫 standalone
+selenium/standalone-chrome
