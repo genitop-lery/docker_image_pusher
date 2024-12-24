@@ -15,5 +15,6 @@ kodcloud/kodbox
 selenium/standalone-chrome
 selenium/node-chrome
 selenium/hub
-
+# 文件共享
+gists/nfs-server
 
